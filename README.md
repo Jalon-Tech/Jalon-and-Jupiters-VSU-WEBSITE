@@ -1,0 +1,2 @@
+# VSU-WEBSITE
+Turn VSU Computer Science flowchart into a user interactive website. It’ll allow the user to click on a class that they’ve completed, but will give a pop up message if a user clicks on a class without completing the previous class required to get to that class. Example: you’ll get a pop up message if you’ve clicked on programming II without already completing programming I.  After the Flowchart is completed by the user.  The flowchart will convert into a similar format of an Excel sheet.
